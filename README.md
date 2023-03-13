@@ -2,4 +2,4 @@
 
 More detailed information:
 
-https://jorgealiaga36.github.io/jorge-aliaga-luque/
+https://jorgealiaga36.github.io/data-science-portfolio/
